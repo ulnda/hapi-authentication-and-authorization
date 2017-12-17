@@ -1,0 +1,29 @@
+{
+  "name": "hapi-authentication-and-authorization",
+  "version": "1.0.0",
+  "description": "Authentication and Authorization with Hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulnda/hapi-authentication-and-authorization.git"
+  },
+  "keywords": [
+    "authentication",
+    "authorization",
+    "hapi"
+  ],
+  "author": "Denis Nagibin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulnda/hapi-authentication-and-authorization/issues"
+  },
+  "homepage": "https://github.com/ulnda/hapi-authentication-and-authorization#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "hapi": "^17.1.1"
+  }
+}
